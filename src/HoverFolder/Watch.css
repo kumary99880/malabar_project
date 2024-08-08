@@ -1,0 +1,103 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Watch {
+    width: 1360px;
+    height: 300px;
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    background-color:#F4F1E6;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 0px;
+    font-size: 14px;
+  }
+  .Watch .Right .Band p{
+    margin-left: 15px;
+    margin-top: -5px;
+  }
+ 
+  
+  .Watch .Ring{
+    width: 230px;
+    height: 40px;
+    margin-top: -10px;
+    margin-right: 20px;
+    background-color: #edeae9 ;
+  }
+  .Watch .Ring ul li:hover{
+    
+    background-color: red ;
+  }
+  .Watch .Right .Shop h3{
+    font-size: 15px; 
+
+  }
+  .Watch  .Wear{
+    width: 230px;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+  .Watch  .Wear h3{
+    font-size: 15px;
+   
+  }
+  .Watch  .Wear .Dail p{
+   margin-left: 15px;
+   margin-top: -18px;
+  }
+  .Watch  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Watch  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .Watch  .Metal h3{
+    font-size: 18px;
+   
+  }
+  .Watch  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Watch  .Metal .Yellow p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .Watch .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+    color: #9A0056;
+
+  }
+  .Watch .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .Watch .Right .Band-right {
+    margin-left: 60px;
+  }
+  .Watch .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 5px;
+    margin-left: 60px;
+    color: #9A0056;
+    
+  }
+  .Watch .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

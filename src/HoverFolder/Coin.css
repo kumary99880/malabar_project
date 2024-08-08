@@ -1,0 +1,99 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Coin {
+    width: 1360px;
+    height: 300px;
+    position: absolute;
+    top: 100%;
+    left: 5px;
+    background-color:#F4F1E6;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 1px;
+    font-size: 14px;
+  }
+  .Coin .Right .Band p{
+    margin-left: 15px;
+    margin-top: -5px;
+  }
+ 
+  
+  .Coin .Ring{
+    width: 230px;
+    height: 40px;
+    margin-top: -10px;
+    margin-right: 20px;
+    background-color: #edeae9 ;
+  }
+  .Coin .Ring ul li:hover{
+    
+    background-color: red ;
+  }
+  .Coin .Right .Shop h3{
+    font-size: 15px; 
+
+  }
+  .Coin  .Wear{
+    width: 230px;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+  .Coin  .Wear h3{
+    font-size: 15px;
+   
+  }
+  .Coin  .Wear .Dail p{
+   margin-left: 15px;
+   margin-top: -18px;
+  }
+  .Coin  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Coin  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .Coin  .Metal h3{
+    font-size: 18px;
+   
+  }
+  .Coin  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Coin  .Metal .Yellow p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .Coin .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+
+  }
+  .Coin .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .Coin .Right .Band-right {
+    margin-left: 20px;
+  }
+  .Coin .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Coin .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

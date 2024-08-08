@@ -1,0 +1,102 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Silver {
+    width: 1360px;
+    height: 80px;
+    position: absolute;
+    top: 100%;
+    left: -1px;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 0px;
+    font-size: 14px;
+  }
+  .Silver .Right .Band p{
+    margin-left: 15px;
+    margin-top: -5px;
+  }
+ 
+  
+  .Silver .Ring{
+    width: 230px;
+    height: 40px;
+    margin-top: -10px;
+    margin-right: 20px;
+    background-color: #edeae9 ;
+  }
+  .Silver .Ring .Top{
+    font-size: 5px;
+  }
+  .Silver .Ring ul li a{
+    font-size: 10px;
+   
+  }
+  .Silver .Right .Shop h3{
+    font-size: 14px; 
+
+  }
+  .Silver  .Wear{
+    width: 230px;
+    height: 500px;
+    margin-left: 80px;
+    margin-top: 10px;
+  }
+  .Silver  .Wear h3{
+    font-size: 15px;
+   
+  }
+  .Silver  .Wear .Dail p{
+   margin-left: 15px;
+   margin-top: -18px;
+  }
+  .Silver  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Silver  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .Silver  .Metal h3{
+    font-size: 18px;
+   
+  }
+  .Silver  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Silver  .Metal .Yellow p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .Silver .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+
+  }
+  .Silver .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .Silver .Right .Band-right {
+    margin-left: 20px;
+  }
+  .Silver .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Silver .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

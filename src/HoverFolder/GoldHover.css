@@ -1,0 +1,80 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Gold {
+    width: 1360px;
+    height: 500px;
+    position: absolute;
+    top: 100%;
+    left: -15px;
+    background-color:white;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 1px;
+    font-size: 14px;
+  }
+ 
+  
+  .Gold .Ring{
+    width: 230px;
+    height: 500px;
+    background-color: #f5f3f3;
+    margin-top: -10px;
+  }
+  .Gold .Right .Shop h3{
+    font-size: 16px; 
+
+  }
+  .Gold  .Wear{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+  }
+  .Gold  .Wear h3{
+    font-size: 16px;
+  }
+  .Gold  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Gold  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .Gold  .Metal h3{
+    font-size: 16px;
+   
+  }
+  .Gold  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Gold .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+
+  }
+  .Gold .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .Gold .Right .Band-right {
+    margin-left: 20px;
+  }
+  .Gold .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Gold .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

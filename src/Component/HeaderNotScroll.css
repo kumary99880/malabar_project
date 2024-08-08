@@ -1,0 +1,69 @@
+.nav
+{
+    position: relative;
+    width: 100%; 
+    box-shadow: 2px 2px 2px green;
+    background-color:white;
+
+     /* Fixes the element in place */
+   /* Aligns the element to the left edge of the viewport */
+    width: 100%; /* Ensures the header spans the full width of the viewport */
+    z-index: 1; /* Makes sure the header is on top of other content */
+    box-shadow: 0 2px 4px black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: position 0.1s, top 0.1s;
+
+}
+.nav.sticky {
+    position: fixed; /* Fixes the header to the top of the viewport */
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: white; /* Ensure background color is set */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) /* Allow it to stop at the position */
+  }
+body {
+    margin: 0px;
+    padding: 0px; /* Adjust this value based on the height of your header */
+  }
+.nav ul{
+  
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+
+    padding: 0; /* Removes default padding */
+    margin: 0; /* Removes default margin */
+
+    
+
+    .nav li {
+        margin: 0 15px;
+        color: #5E5E5E;
+         /* Adds spacing between list items */
+      }
+      
+      .nav a {
+        text-decoration: none; /* Removes underline from links */
+        color: black; /* Sets link color */
+      }
+
+}
+
+.nav ul li{
+    position: static;
+    padding: 10px;
+    color: #5E5E5E;
+
+}
+.nav ul li a{
+   
+   text-decoration: none;
+  color:  #5E5E5E;
+}
+.nav ul li a:hover{
+
+    text-decoration: underline 2px;
+
+}

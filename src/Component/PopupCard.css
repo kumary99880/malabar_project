@@ -1,0 +1,48 @@
+/* App.css */
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+  
+  .popup-over {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    top: 128px;
+    left: 900px;
+    right: 0;
+    z-index: 1000;
+    bottom: 0;
+  ;
+    /* background: rgba(0, 0, 0, 0.5); */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .popup-card1 {
+    position: absolute;
+    background:white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+  }
+  .popup-card1 p {
+   
+    color: black;
+  
+  }
+  
+   button {
+    width: 100px;
+    color:white;
+    background-color: #9A0056;
+    padding: 0px;
+    border: none;
+  }
+  button .right{
+    margin-left: 10px;
+  }
+  

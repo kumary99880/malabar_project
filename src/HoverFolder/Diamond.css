@@ -1,0 +1,79 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.Diamond {
+  width: 1360px;
+  height: 500px;
+  position: absolute;
+  top: 100%;
+  left: 1px;
+  background-color:white;
+  color: black;
+  padding: 10px;
+  border-radius: 4px;
+  white-space: nowrap;
+  z-index: 10;
+  margin-top: 0px;
+  font-size: 14px;
+}
+
+
+.Diamond .Ring{
+  width: 230px;
+  height: 500px;
+  background-color: #f5f3f3;
+  margin-top: -10px;
+}
+.Diamond .Right .Shop h3{
+  font-size: 16px; 
+
+}
+.Diamond  .Wear{
+  width: 230px;
+  height: 500px;
+  margin-left: 40px;
+}
+.Diamond  .Wear h3{
+  font-size: 16px;
+}
+.Diamond  .Wear .Dail{
+  display: flex;
+  margin-top: 10px;
+}
+.Diamond  .Metal{
+  width: 230px;
+  height: 500px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+ 
+}
+.Diamond  .Metal h3{
+  font-size: 16px;
+ 
+}
+.Diamond  .Metal .Yellow{
+  display: flex;
+  margin-top: 10px;
+}
+.Diamond .Right  .Band{
+  display: flex;
+  margin-top: 10px;
+
+}
+.Diamond .Right  .Band img{
+
+  margin-right: 10px;
+
+}
+.Diamond .Right .Band-right {
+  margin-left: 20px;
+}
+.Diamond .Right .Band-right .Casual{
+  display: flex;
+  margin-top: 10px;
+}
+.Diamond .Right .Band-right .Casual img{
+  margin-left: 10px;
+}

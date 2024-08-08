@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.Platinum {
+    width: 1360px;
+    height: 300px;
+    position: absolute;
+    top: 100%;
+    left: -3px;
+    background-color:#F4F1E6;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 1px;
+    font-size: 14px;
+  }
+ 
+  
+  .Platinum .Ring{
+    width: 230px;
+    height: 300px;
+    margin-top: -10px;
+    margin-right: 20px;
+    background-color: #edeae9 ;
+  }
+  .Platinum .Ring ul li:hover{
+    
+    background-color: red ;
+  }
+  .Platinum .Right .Shop h3{
+    font-size: 18px; 
+
+  }
+  .Platinum  .Wear{
+    width: 230px;
+    height: 500px;
+    margin-left: 80px;
+  }
+  .Platinum  .Wear h3{
+    font-size: 18px;
+  }
+  .Platinum  .Wear .Dail p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .Platinum  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Platinum  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .Platinum  .Metal h3{
+    font-size: 18px;
+   
+  }
+  .Platinum  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Platinum  .Metal .Yellow p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .Platinum .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+
+  }
+  .Platinum .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .Platinum .Right .Band-right {
+    margin-left: 20px;
+  }
+  .Platinum .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 10px;
+  }
+  .Platinum .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

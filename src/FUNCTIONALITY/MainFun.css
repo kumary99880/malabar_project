@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.homelink ul{
+    display: flex;
+}
+.main{
+    display: flex;
+
+}
+CDropdownMenu CDropdownItem:hover{
+  background-color: blue;
+  color: white;
+}
+
+    /* --------------------- Zoom  start-------------------*/
+/* Add a container to hold the zoom effect */
+ /* Container for the zoom effect */
+
+  
+
+  
+      /* --------------------- Zoom  Stop-------------------*/

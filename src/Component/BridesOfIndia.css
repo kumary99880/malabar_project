@@ -1,0 +1,36 @@
+.main{
+    position: relative;
+  
+    padding: 10px;
+   
+
+}
+.main .upper{
+
+
+    background: #f7eef338;
+    width: 80%;
+    position: absolute;
+    bottom: 36px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    padding: 10px;
+    
+
+}
+ .lower{
+    margin: 6px;
+    padding:
+   0px;
+}
+.lower h2{
+    font-size: 20px;
+    text-align: center;
+    font-size: 17px;
+}
+.lower img{
+ width: 170px;
+}

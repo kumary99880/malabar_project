@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+    
+    .popup-Click {
+      position: absolute;
+      width: 200px;
+      height: 150px;
+      top: 128px;
+      left: 900px;
+     
+      right: 0;
+      z-index: 1000;
+      bottom: 0;
+    
+    }
+    .popup{
+        display: flex;
+        justify-content: space-between;
+        background-color: white;
+    }

@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.UncutDiamond {
+    width: 1360px;
+    height: 300px;
+    position: absolute;
+    top: 100%;
+    left: -10px;
+    background-color:#F4F1E6;
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    white-space: nowrap;
+    z-index: 10;
+    margin-top: 1px;
+    font-size: 14px;
+  }
+ 
+  
+  .UncutDiamond .Ring{
+    width: 230px;
+    height: 300px;
+    margin-top: -10px;
+    margin-right: 20px;
+    background-color: #edeae9 ;
+  }
+  .UncutDiamond .Ring ul li:hover{
+    
+    background-color: red ;
+  }
+  .UncutDiamond .Right .Shop h3{
+    font-size: 16px; 
+   
+
+  }
+  .UncutDiamond .Right p{
+    margin-top: -13px;
+  }
+  .UncutDiamond .Right{
+    margin-bottom: 10px;
+   
+  }
+ 
+  .UncutDiamond  .Wear {
+    width: 230px;
+    height: 500px;
+    margin-left: 80px;
+    margin-bottom: 25px;
+  }
+  .UncutDiamond  .Wear .Dail{
+   margin-top: 20px;
+    color: #9A0056;
+    cursor: pointer;
+  }
+  .UncutDiamond  .Wear h3{
+    font-size: 16px;
+  }
+  .UncutDiamond  .Wear .Dail p{
+   margin-left: 15px;
+   margin-top: -10px;
+  }
+  .UncutDiamond  .Wear .Dail{
+    display: flex;
+    margin-top: 10px;
+  }
+  .UncutDiamond  .Metal{
+    width: 230px;
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+   
+  }
+  .UncutDiamond  .Metal h3{
+    font-size: 16px;
+   
+  }
+  .UncutDiamond  .Metal .Yellow{
+    display: flex;
+    margin-top: 10px;
+  }
+  .UncutDiamond  .Metal .Yellow p{
+   margin-left: 15px;
+   margin-top: 10px;
+  }
+  .UncutDiamond .Right  .Band{
+    display: flex;
+    margin-top: 10px;
+
+  }
+  .UncutDiamond .Right  .Band img{
+ 
+    margin-right: 10px;
+
+  }
+  .UncutDiamond .Right .Band-right {
+    margin-left: 20px;
+  }
+  .UncutDiamond .Right .Band-right .Casual{
+    display: flex;
+    margin-top: 10px;
+  }
+  .UncutDiamond .Right .Band-right .Casual img{
+    margin-left: 10px;
+  }
+ 

@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.Main{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 30px 30px 20px;
+    backgroundColor:#f9f2ea
+
+}
+.Main i{
+   margin-right: 10px;
+   margin-top: 2px;
+}
+.Main h2{
+    font-size: 20px;
+}
+.Main .telephone{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.Main .telephone .bi-telephone-forward-fill{
+    font-size: 12px;
+    margin-left: 4px;
+}
+/* .Main .Whats-app{
+    width: 19px;
+    height: 19px;
+    background-color:#25D366 ;
+    margin-top: 0px;
+    border-radius: 50%;
+} */
+.Whats-app .bi-whatsapp{
+    background-color:#25D366 ;
+    border-radius: 40%;
+    font-size: 20px;
+   
+   
+}
+.Main ul li{
+    list-style: none;
+    padding: 5px;
+}
+.Main ul li a{
+    font-size: 13px;
+   
+    color: #9A0056;
+}
